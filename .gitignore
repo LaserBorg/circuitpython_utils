@@ -1,0 +1,16 @@
+# temps
+.vscode
+__pycache__
+cpython/_temp
+
+# private
+circuitpython/settings.toml
+todo.md
+
+# work in progress
+mechanical_design
+circuitpython/lib
+_other
+
+# data directory
+cpython/data
