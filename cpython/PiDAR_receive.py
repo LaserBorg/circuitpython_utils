@@ -5,7 +5,7 @@ import os
 import struct
 import numpy as np
 
-from lib.matplotlib_utils import plot_2D 
+from lib.matplotlib_2D import plot_2D 
 
 
 def read_data(ser):

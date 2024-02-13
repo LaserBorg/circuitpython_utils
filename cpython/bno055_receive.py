@@ -18,7 +18,7 @@ import time
 import numpy as np
 from scipy.integrate import cumtrapz
 
-from lib.open3d_utils import IMU_Visualizer
+from lib.IMU_visualizer import IMU_Visualizer
 
 
 def read_data(ser):
